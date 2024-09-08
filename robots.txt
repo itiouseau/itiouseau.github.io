@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itiouseau.github.io/sitemap.html.gz
+Sitemap: https://itiouseau.github.io/app/sitemap.html.gz
+Sitemap: https://itiouseau.github.io/assets/sitemap.html.gz
+Sitemap: https://itiouseau.github.io/css/sitemap.html.gz
+Sitemap: https://itiouseau.github.io/includes/sitemap.html.gz
+Sitemap: https://itiouseau.github.io/item/sitemap.html.gz
+Sitemap: https://itiouseau.github.io/src/sitemap.html.gz
